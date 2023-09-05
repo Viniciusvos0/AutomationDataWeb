@@ -14,7 +14,7 @@ Para esta solução foram utilizadas as seguintes ferramentas:
 
 os: Módulo Python.
 
-config:módulo de configurações Python
+config: Módulo de configurações Python
 
 datetime: Módulo Python.
 
